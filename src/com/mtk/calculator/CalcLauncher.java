@@ -1,3 +1,4 @@
+-------------WELCOME--------------
 package com.mtk.calculator;
 import java.awt.EventQueue;
 
